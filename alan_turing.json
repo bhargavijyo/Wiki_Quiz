@@ -1,0 +1,6 @@
+{
+  "title": "Alan Turing",
+  "quiz_count": 5,
+  "difficulty_levels": ["easy", "medium"],
+  "related_topics": ["Cryptography", "Enigma machine"]
+}
