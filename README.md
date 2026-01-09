@@ -132,4 +132,3 @@ Network connection errors
 Missing article sections
 LLM API failures
 Database connection issues
-📄 License
